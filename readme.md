@@ -1,6 +1,6 @@
 # My Room in 3D
 
-<img width="100%" src="https://github.com/ninja-home/sergio-room/showcase.png" />
+<img width="100%" src="showcase.png" />
 
 ## Setup
 
